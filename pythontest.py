@@ -1,2 +1,2 @@
 print('my first.py 12')
-echo test
+echo test123
